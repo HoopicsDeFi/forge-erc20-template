@@ -65,3 +65,4 @@ cast send --rpc-url http://localhost:8545 0x5FbDB2315678afecb367f032d93F642f6418
 ```
 
 
+* https://book.getfoundry.sh/reference/cast/cast-send
